@@ -41,8 +41,8 @@
 
 1. **Clone this repository**
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/Thomas-JJ/AWS-RDS-MySQL-Terraform.git
+   cd AWS-RDS-MySQL-Terraform
    ```
 
 2. **Initialize Terraform**
