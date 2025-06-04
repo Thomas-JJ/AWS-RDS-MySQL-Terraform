@@ -167,8 +167,6 @@ resource "aws_db_instance" "mysql" {
 
 }
 
-# Remove the locals block since we're using PowerShell directly
-
 
 # Outputs
 output "rds_endpoint" {
